@@ -71,6 +71,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+![Profile Hits](https://komarev.com/ghpvc/?username=your-github-username)
 ![snake animation](https://github.com/raptor7197/raptor7197/blob/output/github-contribution-grid-snake2.svg)
 ###
