@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
 <h3 align="center">A curious guy who can't stick to one thing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raptor7197&label=Profile%20views&color=0e75b6&style=flat" alt="raptor7197" /> </p>
+<p align="left"> <<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" alt="raptor7197" /> </p>
 
-- 🌱 I’m currently learning **q# Deep learning and Backend development**
+- 🌱 I’m currently learning **Q#, Deep learning and Backend development**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -14,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&locale=en" alt="raptor7197" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raptor7197&" alt="raptor7197" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raptor7197" alt="raptor7197" /></p>
