@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
-<h3 align="center">A curious guy who can't stick to one thing</h3>
+<h1 align="center">Hi <<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" alt="raptor7197" />, I'm Vamsi Krishna</h1>
+<h4 align="center">A curious guy who can't stick to one thing</h4>
 
-<p align="left"> <<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" alt="raptor7197" /> </p>
+<p align="left">  </p>
 
-- 🌱 I’m currently learning **Q#, Deep learning and Backend development**
+- 🌱 I’m currently learning **Q#, Deep learning & Backend development**
 
 <p align="left">
 </p>
@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&locale=en" alt="raptor7197" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raptor7197" alt="raptor7197" /></p>
