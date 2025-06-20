@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">My name is<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Bangers&weight=300&size=30&pause=1000&color=1EF71F&background=FFFFFF00&vCenter=false&random=true&width=435&lines=Vamsi+Krishna" alt="Typing SVG" /></a> and I'm a 3rd year student</p>
+<p align="center">My name is <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&pause=1000&color=22F755&width=435&lines=Vamsi+Krishna" alt="Typing SVG" /></a> and I'm a 3rd year student</p>
 
 ###
 
