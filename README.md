@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">My name is Vamsi Krishna and I'm a 2ⁿᵈ year student</p>
+<p align="center">My name is <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=1EF71F&background=7C66FF00&center=true&vCenter=true&random=true&width=435&lines=Vamsi+Krishna..." alt="Typing SVG" /></a> and I'm a 3rd year student</p>
 
 ###
 
