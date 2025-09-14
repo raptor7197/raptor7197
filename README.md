@@ -10,12 +10,10 @@
 <h2 align="center">A brief Intro about me</h2>
 
 ###
-
-<p align="center" >&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&theme=blue-green" alt="raptor7197" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&theme=blue-green" alt="raptor7197" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raptor7197&theme=blue-green&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&sideLabels=10EBE6" alt="GitHub Streak" /></a>
 </p>
-<p align="center" >&nbsp;
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raptor7197&theme=blue-green&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&sideLabels=10EBE6" alt="GitHub Streak" /></a></p>
 
 
 <p align="center">
