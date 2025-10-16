@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">A brief Intro about me</h2>
+<h2 align="center">A smol Intro about me</h2>
 
 ###
 <p align="center">
