@@ -37,5 +37,6 @@
  <img src="https://skillicons.dev/icons?i=androidstudio,aws,debian,discord,docker,eclipse,figma,gcp,git,github,grafana,jenkins,kali,kubernetes,linux,mongodb,neovim,nginx,npm,notion,ps,pnpm,postman,replit,vim,vercel,vscode,wordpress,)](https://skillicons.dev" />
 
 </a>
-</p>
+
+[![An image of @raptor7197's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raptor7197)](https://holopin.io/@raptor7197)</p>
 
