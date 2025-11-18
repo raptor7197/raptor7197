@@ -7,25 +7,23 @@
 
 ###
 
-<h2 align="center">A smol Intro about me</h2>
+<h2 align="center">My Stats : </h2>
 
 ###
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&theme=blue-green" alt="raptor7197" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raptor7197&theme=blue-green&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&sideLabels=10EBE6" alt="GitHub Streak" /></a>
-</p>
+<div align="center">
+  <img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&theme=blue-green" alt="raptor7197" />
+  <img src="https://streak-stats.demolab.com?user=raptor7197&theme=blue-green&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&sideLabels=10EBE6" alt="GitHub Streak of raptor7197" />
+</div>
 
 
 <p align="center">
 <h3 align="left">Languages :</h3>
 
-  
-[![My Skills ](https://skillicons.dev/icons?i=js,html,css,bash,cpp,java,figma,git,go,htmx,latex,lua,md,mysql,py,ts,)](https://skillicons.dev)
+![My Skills ](https://skillicons.dev/icons?i=js,bash,cpp,java,git,go,htmx,latex,lua,md,mysql,py,ts,)
 </p>
 <h3 align="left">Libraries ,Frameworks and Build tools  :</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,express,maven,vite,nextjs,nodejs,npm,pnpm,pytorch,react,sklearn,tailwind,tensorflow)](https://skillicons.dev" />
   </a>
 </p>
@@ -34,9 +32,32 @@
 <p align="center">
     <a href="https://skillicons.dev">
 
- <img src="https://skillicons.dev/icons?i=androidstudio,aws,debian,discord,docker,eclipse,figma,gcp,git,github,grafana,jenkins,kali,kubernetes,linux,mongodb,neovim,nginx,npm,notion,ps,pnpm,postman,replit,vim,vercel,vscode,wordpress,)](https://skillicons.dev" />
+ <img src="https://skillicons.dev/icons?i=androidstudio,aws,debian,docker,eclipse,figma,gcp,git,github,grafana,jenkins,kali,kubernetes,linux,mongodb,neovim,nginx,npm,pnpm,postman,replit,vim,vercel,wordpress,)](https://skillicons.dev" />
 
 </a>
 
 [![An image of @raptor7197's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raptor7197)](https://holopin.io/@raptor7197)</p>
+```
+
+██╗  ░█████╗░███╗░░░███╗  ░░░░░██╗██╗░░░██╗░██████╗████████╗
+██║  ██╔══██╗████╗░████║  ░░░░░██║██║░░░██║██╔════╝╚══██╔══╝
+██║  ███████║██╔████╔██║  ░░░░░██║██║░░░██║╚█████╗░░░░██║░░░
+██║  ██╔══██║██║╚██╔╝██║  ██╗░░██║██║░░░██║░╚═══██╗░░░██║░░░
+██║  ██║░░██║██║░╚═╝░██║  ╚█████╔╝╚██████╔╝██████╔╝░░░██║░░░
+╚═╝  ╚═╝░░╚═╝╚═╝░░░░░╚═╝  ░╚════╝░░╚═════╝░╚═════╝░░░░╚═╝░░░
+
+██████╗░███████╗██╗░░░░░░█████╗░████████╗██╗██╗░░░██╗███████╗██╗░░░░░██╗░░░██╗  ██╗░░░░░███████╗░██████╗░██████╗
+██╔══██╗██╔════╝██║░░░░░██╔══██╗╚══██╔══╝██║██║░░░██║██╔════╝██║░░░░░╚██╗░██╔╝  ██║░░░░░██╔════╝██╔════╝██╔════╝
+██████╔╝█████╗░░██║░░░░░███████║░░░██║░░░██║╚██╗░██╔╝█████╗░░██║░░░░░░╚████╔╝░  ██║░░░░░█████╗░░╚█████╗░╚█████╗░
+██╔══██╗██╔══╝░░██║░░░░░██╔══██║░░░██║░░░██║░╚████╔╝░██╔══╝░░██║░░░░░░░╚██╔╝░░  ██║░░░░░██╔══╝░░░╚═══██╗░╚═══██╗
+██║░░██║███████╗███████╗██║░░██║░░░██║░░░██║░░╚██╔╝░░███████╗███████╗░░░██║░░░  ███████╗███████╗██████╔╝██████╔╝
+╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░╚═╝░░░╚══════╝╚══════╝░░░╚═╝░░░  ╚══════╝╚══════╝╚═════╝░╚═════╝░
+
+██████╗░██╗░░░██╗███╗░░░███╗██████╗░███████╗██████╗░
+██╔══██╗██║░░░██║████╗░████║██╔══██╗██╔════╝██╔══██╗
+██║░░██║██║░░░██║██╔████╔██║██████╦╝█████╗░░██████╔╝
+██║░░██║██║░░░██║██║╚██╔╝██║██╔══██╗██╔══╝░░██╔══██╗
+██████╔╝╚██████╔╝██║░╚═╝░██║██████╦╝███████╗██║░░██║
+╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝
+```
 
