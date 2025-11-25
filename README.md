@@ -32,7 +32,7 @@
 <p align="center">
     <a href="https://skillicons.dev">
 
- <img src="https://skillicons.dev/icons?i=androidstudio,aws,debian,docker,eclipse,figma,gcp,git,github,grafana,jenkins,kali,kubernetes,linux,mongodb,neovim,nginx,npm,pnpm,postman,replit,vim,vercel,wordpress,)](https://skillicons.dev" />
+ <img src="https://skillicons.dev/icons?i=,aws,debian,docker,eclipse,figma,gcp,git,github,grafana,jenkins,kali,linux,mongodb,neovim,nginx,npm,vim,vercel,wordpress,)](https://skillicons.dev" />
 
 </a>
 
