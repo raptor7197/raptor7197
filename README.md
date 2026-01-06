@@ -12,9 +12,8 @@
 ###
 <div align="center">
   <img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&theme=blue-green" alt="raptor7197" />
-  <img src="https://streak-stats.demolab.com?user=raptor7197&theme=blue-green&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&sideLabels=10EBE6" alt="GitHub Streak of raptor7197" />
-</div>
-
+  <!-- <img src="https://streak-stats.demolab.com?user=raptor7197&theme=blue-green&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&sideLabels=10EBE6" alt="GitHub Streak of raptor7197" /> -->
+[![vamsi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=raptor7197&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 <p align="center">
 <h3 align="left">Languages :</h3>
