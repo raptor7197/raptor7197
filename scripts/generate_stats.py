@@ -458,7 +458,7 @@ def write(path, svg):
 
 
 def main():
-    token = os.environ.get("GITHUB_TOKEN")
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     if not token:
         sys.exit("GITHUB_TOKEN is not set")
     login = os.environ.get("GH_LOGIN", "raptor7197")
