@@ -4,7 +4,7 @@
 
 **Final Year Student at VIT**
 
-[thekrishna.me](https://thekrishna.me) &nbsp;·&nbsp;
+[portfolio](https://thekrishna.me) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/pvamsikrishna/) &nbsp;·&nbsp;
 [twitter](https://x.com/justvamsi7) &nbsp;·&nbsp;
 [github](https://github.com/raptor7197) &nbsp;·&nbsp;
