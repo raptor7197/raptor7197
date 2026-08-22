@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="142" viewBox="0 0 620 142" fill="none">
+  <style>
+    .text { fill: #6e7681; font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .head { fill: #6e7681; font: 400 9px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.3px; }
+    .strong { fill: #424a53; font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .bar { fill: #6e7681; }
+    @media (prefers-color-scheme: dark) {
+      .text, .head { fill: #8b949e; }
+      .strong { fill: #f0f6fc; }
+      .bar { fill: #c9d1d9; }
+    }
+  </style>
+  <text x="34" y="12" class="head">BY BYTES</text>
+  <text x="324" y="12" class="head">BY REPOS</text>
+  <text x="34" y="34" class="strong">generated</text><rect x="116" y="26" width="150" height="7" rx="3" class="bar"/>
+  <text x="302" y="34" class="text" text-anchor="end">soon</text>
+  <text x="34" y="56" class="strong">from</text><rect x="116" y="48" width="110" height="7" rx="3" class="bar"/>
+  <text x="302" y="56" class="text" text-anchor="end">public</text>
+  <text x="34" y="78" class="strong">github</text><rect x="116" y="70" width="76" height="7" rx="3" class="bar"/>
+  <text x="302" y="78" class="text" text-anchor="end">data</text>
+  <text x="324" y="34" class="strong">workflow</text><rect x="406" y="26" width="150" height="7" rx="3" class="bar"/>
+  <text x="590" y="34" class="text" text-anchor="end">dispatch</text>
+  <text x="324" y="56" class="strong">or</text><rect x="406" y="48" width="110" height="7" rx="3" class="bar"/>
+  <text x="590" y="56" class="text" text-anchor="end">schedule</text>
+  <text x="324" y="78" class="strong">commit</text><rect x="406" y="70" width="76" height="7" rx="3" class="bar"/>
+  <text x="590" y="78" class="text" text-anchor="end">updates</text>
+</svg>

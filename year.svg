@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="147" viewBox="0 0 620 147" fill="none">
+  <style>
+    .text { fill: #6e7681; font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .head { fill: #6e7681; font: 400 9px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.3px; }
+    .mono { fill: #6e7681; font: 400 9.2px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }
+    @media (prefers-color-scheme: dark) {
+      .text, .head, .mono { fill: #8b949e; }
+    }
+  </style>
+  <text x="34" y="16" class="head">THE YEAR</text>
+  <text x="34" y="32" class="text">generated after the workflow runs for @raptor7197</text>
+  <text x="505" y="32" class="text">less : + # @ more</text>
+  <text x="27" y="54" class="text" text-anchor="end">mon</text>
+  <text x="34" y="54.4" class="mono">::  ++  ###   @@   ::  ++  ###   @@   ::  ++   ###  @@</text>
+  <text x="27" y="76" class="text" text-anchor="end">wed</text>
+  <text x="34" y="76.4" class="mono">  ::   ++  ##   @@    ::   ++  ##   @@    ::   ++  ##</text>
+  <text x="27" y="98" class="text" text-anchor="end">fri</text>
+  <text x="34" y="98.4" class="mono">::   ++   ##   @@   ::   ++   ##   @@   ::   ++   ## </text>
+  <text x="34" y="127" class="text">aug</text>
+  <text x="112" y="127" class="text">oct</text>
+  <text x="178" y="127" class="text">nov</text>
+  <text x="252" y="127" class="text">dec</text>
+  <text x="322" y="127" class="text">jan</text>
+  <text x="390" y="127" class="text">feb</text>
+  <text x="458" y="127" class="text">mar</text>
+  <text x="526" y="127" class="text">apr</text>
+</svg>

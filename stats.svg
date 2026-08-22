@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="148" viewBox="0 0 620 148" fill="none">
+  <style>
+    .bg { fill: #ffffff; }
+    .line { stroke: #d8dee4; }
+    .text { fill: #6e7681; font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .strong { fill: #424a53; font: 600 52px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .num { fill: #424a53; font: 600 19px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .area { fill: rgba(110,118,129,0.13); }
+    .stroke { stroke: #6e7681; stroke-width: 2; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .line { stroke: #30363d; }
+      .text { fill: #8b949e; }
+      .strong, .num { fill: #f0f6fc; }
+      .area { fill: rgba(201,209,217,0.16); }
+      .stroke { stroke: #c9d1d9; }
+    }
+  </style>
+  <rect class="bg" width="620" height="148" rx="0"/>
+  <text x="0" y="50" class="strong">—</text>
+  <text x="0" y="72" class="text">contributions in the last year</text>
+  <text x="620" y="30" text-anchor="end" class="num">—</text>
+  <text x="620" y="47" text-anchor="end" class="text">active days</text>
+  <text x="620" y="70" text-anchor="end" class="num">—</text>
+  <text x="620" y="87" text-anchor="end" class="text">best week</text>
+  <path class="area" d="M0 138L80 130L160 118L240 122L320 102L400 112L480 92L560 98L620 84L620 138Z"/>
+  <path class="stroke" d="M0 130L80 122L160 110L240 114L320 94L400 104L480 84L560 90L620 76"/>
+</svg>
